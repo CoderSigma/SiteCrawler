@@ -15,6 +15,10 @@ git clone https://github.com/CoderSigma/SiteCrawler.git
 cd SiteCrawler
 ```
 ```
+pip install -r requirements.txt
+
+```
+```
 python3 python3 scanner.py
 ```
 
